@@ -208,4 +208,4 @@ This repository serves as the official landing page for Spellforce Platinum. The
 **Get the most recent version of Spellforce Platinum today!**
 
 ---
-**Last updated:** 2026-11-08 14:02:01 UTC
+**Last updated:** 2026-11-08 19:18:30 UTC
